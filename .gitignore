@@ -1,0 +1,14 @@
+__pycache__
+*.pyc
+.vscode
+.ipynb_checkpoints
+dataset
+feature
+output
+models
+metrics
+docker
+*.log
+*_models/
+submit/
+log/
